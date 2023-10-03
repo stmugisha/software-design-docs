@@ -8,6 +8,11 @@ The structure for each of the template documents will most definitely vary due t
 
 ## Types of software design documents:
 
-* **Concept Paper** 
-* **Software Requirements Specification** (SRS)
-* **Software Design Document** (SDD)
+* [Concept Paper]("./concept_paper.md")
+  
+  * Briefly introduces and describes a problem, proposes a solution(s) and provides justification for the software solution(s). The concept paper is a deliverable at the end of an ideation (idea conceptualization) phase and is typically 1-2 pages long.
+  * This helps provide some context for team leads/managers to escalate further up the hierarchy for approval & resource allocation if they see a value proposition (to the company) in what's described in the concept paper.
+    
+* [Software Requirements Specification (SRS)]("./software_requirements_specification.md")
+  
+* [Software Design Document (SDD)]("./software_design_document.md")
