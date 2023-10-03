@@ -4,7 +4,7 @@
 
 The structure for each of the template documents will most definitely vary due to;
 * differences in requirements for different software projects.
-* varying design practices across different companies & industries.
+* varying design practices across companies & industries.
 
 ## Types of software design documents:
 
