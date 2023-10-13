@@ -27,6 +27,8 @@ The structure for each of the template documents will most definitely vary due t
 
 ## Notes
 
-* The processes followed to get to the SRS and SDD deliverables can be iterative (can be repeated multiple times) as a better understanding of the requirements for a system are developed by the stakeholders involved. Each iteration yields a refined SRS and/or SDD.
+* The processes followed to get to the SRS and SDD deliverables usually are iterative (are repeated multiple times) as a better understanding of the requirements for a system are developed by the stakeholders involved. Each iteration yields a refined SRS and/or SDD.
 
 * Whether to have all or some of these documents depends on the design & engineering practices at a particular company and the scope of software to be developed. In some companies a `Software Design Document (SDD)` is sufficient most of the times for work that involves modifying existing software: thus the `SDD` ends up containing details such as functional and non-functional requirements that would have otherwise been put in the `SRS`.
+
+* It's also not a must to have any of these documents especially for simple software projects where very few stakeholders are involved. However, for projects with a high degree of complexity and a number of technical & non-technical stakeholders involved, these documents are necessary to aid communication among stakeholders and allow for tracking changes in decisions.
